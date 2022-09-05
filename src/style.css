@@ -1,0 +1,86 @@
+head {
+    background-color: gray;
+}
+h2.heading {
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-bottom: 10px;
+  height: 40px;
+  background-color: gray;
+  margin-left: -7px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+  background-color: white;
+}
+.content {
+    width: 100%;
+}
+nav.menu {
+  margin-top: -20px;
+  margin-left: -7px;
+  padding: 7px;
+  background-color: rgb(44, 42, 42);
+}
+a.links {
+  border-right: 2px solid white;
+  text-decoration: none;
+  padding: 5px;
+  text-align: center;
+  color: white;
+}
+nav :hover {
+  background-color: green;
+}
+h1 {
+  padding-left: 0px;
+  padding-top: 10px;
+  margin-top: 5px;
+  color: rgb(32, 32, 187);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.mainContent {
+    display: inline-flexbox;
+    height: 560%;
+  background-color: white;
+  margin-right: 50px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 40px;
+  width: 60%;
+  float: left;
+}
+h2.asideHeading {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-top: -53px;
+  margin-bottom: -2px;
+  margin-right: 25px;
+  padding-right: 2px;
+  padding: 15px;
+  margin-bottom: 12.7px;
+  color: rgb(28, 28, 138);
+}
+.sideContent {
+  height: 100%;
+  background-color: lightgray;
+  margin-top: -22px;
+  margin-left: 13px;
+  padding-right: 20px;
+  margin-right: 0px;
+  margin-bottom: 20px;
+}
+footer {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: relative;
+    margin-top: -10px;
+    height:45px;
+    padding-top: 10px;
+    padding-right: 5px;
+    margin-right: 15px;
+    text-align: end;
+    width: 99.7%;
+    background-color: gray;
+    font-size: medium;
+    margin-top: -20px;
+    margin-bottom: 29px;
+}
